@@ -7,5 +7,6 @@ result = price * (1 - discount)
 
 print(result)
 
-test = 3
+test1 = 1
 test2 = 2
+test3 = 3
